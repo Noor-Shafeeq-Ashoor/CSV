@@ -1,0 +1,26 @@
+name,salary,joinedDate,role,completedProjectsPercentage
+Ahmed Al Khalifa,2800.00,2015-03-01,Director,92
+Fatima Hassan,2400.00,2018-07-15,Manager,85
+Yusuf Ibrahim,1200.00,2020-01-10,Employee,78
+Maryam Abdulla,1350.00,2021-09-01,Employee,60
+Khalid Mansoor,2600.00,2012-11-20,Director,55
+Noora Salman,1900.00,2019-05-05,Manager,59.9
+Hamad Jassim,1100.00,2024-03-18,Employee,95
+Zainab Ali,1450.00,2023-10-19,Employee,88
+Salman Yousif,1500.00,2023-10-20,Employee,70
+Layla Hussain,2100.00,2017-02-14,Manager,100
+Omar Faisal,1250.00,2022-06-30,Employee,64
+Aisha Rashid,3000.00,2010-08-12,Director,80
+"Al Zayani, Hessa",1800.00,2016-04-25,Manager,72
+Mohammed Nabeel,1050.00,2026-05-02,Employee,90
+Sara Qassim,1320.50,2021-12-31,Employee,61
+Ebrahim Kamal,2250.75,2019-10-19,Manager,66
+Dana Fahad,1180.00,2025-01-06,Employee,45
+Tariq Saeed,2950.00,2014-09-09,Director,97
+Reem Abbas,1275.00,2020-08-08,Employee,0
+Jaber Ahmed,1600.00,2018-03-03,Employee,100
+Huda Majid,2300.00,2020-12-01,Manager,60
+Rashid Obaid,3200.00,2008-01-20,Director,88
+Amal Darwish,1400.00,2022-10-19,Employee,75
+Faisal Nasser,1700.00,2016-11-11,Employee,59
+Shaikha Waleed,2050.00,2027-01-01,Manager,90
