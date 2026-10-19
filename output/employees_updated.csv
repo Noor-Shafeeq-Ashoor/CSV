@@ -1,0 +1,26 @@
+name,joinedDate,role,completedProjectsPercentage,oldSalary,incrementPercent,newSalary,reason
+Ahmed Al Khalifa,2015-03-01,DIRECTOR,92.0,2800.00,27.00,3556.00,Role DIRECTOR 5% + 11 year(s) worked x 2% = 22% => 27%
+Fatima Hassan,2018-07-15,MANAGER,85.0,2400.00,18.00,2832.00,Role MANAGER 2% + 8 year(s) worked x 2% = 16% => 18%
+Yusuf Ibrahim,2020-01-10,EMPLOYEE,78.0,1200.00,13.00,1356.00,Role EMPLOYEE 1% + 6 year(s) worked x 2% = 12% => 13%
+Maryam Abdulla,2021-09-01,EMPLOYEE,60.0,1350.00,11.00,1498.50,Role EMPLOYEE 1% + 5 year(s) worked x 2% = 10% => 11%
+Khalid Mansoor,2012-11-20,DIRECTOR,55.0,2600.00,0.00,2600.00,No increase: completed projects below 60%
+Noora Salman,2019-05-05,MANAGER,59.9,1900.00,0.00,1900.00,No increase: completed projects below 60%
+Hamad Jassim,2024-03-18,EMPLOYEE,95.0,1100.00,5.00,1155.00,Role EMPLOYEE 1% + 2 year(s) worked x 2% = 4% => 5%
+Zainab Ali,2023-10-19,EMPLOYEE,88.0,1450.00,7.00,1551.50,Role EMPLOYEE 1% + 3 year(s) worked x 2% = 6% => 7%
+Salman Yousif,2023-10-20,EMPLOYEE,70.0,1500.00,5.00,1575.00,Role EMPLOYEE 1% + 2 year(s) worked x 2% = 4% => 5%
+Layla Hussain,2017-02-14,MANAGER,100.0,2100.00,20.00,2520.00,Role MANAGER 2% + 9 year(s) worked x 2% = 18% => 20%
+Omar Faisal,2022-06-30,EMPLOYEE,64.0,1250.00,9.00,1362.50,Role EMPLOYEE 1% + 4 year(s) worked x 2% = 8% => 9%
+Aisha Rashid,2010-08-12,DIRECTOR,80.0,3000.00,37.00,4110.00,Role DIRECTOR 5% + 16 year(s) worked x 2% = 32% => 37%
+"Al Zayani, Hessa",2016-04-25,MANAGER,72.0,1800.00,22.00,2196.00,Role MANAGER 2% + 10 year(s) worked x 2% = 20% => 22%
+Mohammed Nabeel,2026-05-02,EMPLOYEE,90.0,1050.00,1.00,1060.50,"Role EMPLOYEE 1% (less than one year worked, no tenure increase) => 1%"
+Sara Qassim,2021-12-31,EMPLOYEE,61.0,1320.50,9.00,1439.35,Role EMPLOYEE 1% + 4 year(s) worked x 2% = 8% => 9%
+Ebrahim Kamal,2019-10-19,MANAGER,66.0,2250.75,16.00,2610.87,Role MANAGER 2% + 7 year(s) worked x 2% = 14% => 16%
+Dana Fahad,2025-01-06,EMPLOYEE,45.0,1180.00,0.00,1180.00,No increase: completed projects below 60%
+Tariq Saeed,2014-09-09,DIRECTOR,97.0,2950.00,29.00,3805.50,Role DIRECTOR 5% + 12 year(s) worked x 2% = 24% => 29%
+Reem Abbas,2020-08-08,EMPLOYEE,0.0,1275.00,0.00,1275.00,No increase: completed projects below 60%
+Jaber Ahmed,2018-03-03,EMPLOYEE,100.0,1600.00,17.00,1872.00,Role EMPLOYEE 1% + 8 year(s) worked x 2% = 16% => 17%
+Huda Majid,2020-12-01,MANAGER,60.0,2300.00,12.00,2576.00,Role MANAGER 2% + 5 year(s) worked x 2% = 10% => 12%
+Rashid Obaid,2008-01-20,DIRECTOR,88.0,3200.00,41.00,4512.00,Role DIRECTOR 5% + 18 year(s) worked x 2% = 36% => 41%
+Amal Darwish,2022-10-19,EMPLOYEE,75.0,1400.00,9.00,1526.00,Role EMPLOYEE 1% + 4 year(s) worked x 2% = 8% => 9%
+Faisal Nasser,2016-11-11,EMPLOYEE,59.0,1700.00,0.00,1700.00,No increase: completed projects below 60%
+Shaikha Waleed,2027-01-01,MANAGER,90.0,2050.00,2.00,2091.00,"Role MANAGER 2% (less than one year worked, no tenure increase) => 2%"
